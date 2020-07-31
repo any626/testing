@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sample"
+
+	"github.com/any626/testing/pkg/sample"
 )
 
 func main() {

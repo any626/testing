@@ -1,0 +1,3 @@
+github.com/any626/testing v0.0.0-20200731033916-f554dfe5a798 h1:xaHqgvo9j6mFHw/lceV78fn4dj65lpASsaeWfcxii7k=
+github.com/any626/testing/pkg/sample v0.0.0-20200731033916-f554dfe5a798 h1:KyTbeQ6ZeRK2XkvXOrTzJiCTdqkHtX0Qnxb03cDPTZo=
+github.com/any626/testing/pkg/sample v0.0.0-20200731033916-f554dfe5a798/go.mod h1:xOUWfBEaqWtzz9/nRnvwcXDui5j3Oa5DsX2EQjJmfAY=
